@@ -12,10 +12,7 @@ O API CRUD é um aplicação de CRUD completo de web services REST para acessar 
 
 A aplicação consiste em buscar recursos peginado e por id, inserção, atualização e exclusão de recursos.
 
-## Layout mobile
-
-
-## Layout web
+## Layout 
 
 
 ## Modelo conceitual
