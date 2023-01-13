@@ -1,7 +1,12 @@
-# API CRUD
-[![NPM](https://img.shields.io/npm/l/react)]() 
+<h1 align="center"> API CRUD </h1>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=spring&message=framework&color=blue&style=for-the-badge&logo=SPRING"/>
+  <img src="https://img.shields.io/static/v1?label=Postman&message=API management&color=blue&style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/static/v1?label=Apache&message=Dependency manager&color=blue&style=for-the-badge&logo=apache"/>
+  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+</p>  
 
-# Sobre o projeto
+# Sobre o projeto :open_file_folder:
 
 O API CRUD é um projeto desenvolvido para avaliar algumas competências no módulo de CRUD. Algumas delas são: organização do projeto em camadas, tratamento de exeções, seeding da base de dados e criação de web services REST para acessar um recurso de clientes contendo as cinco operações básicas:
 - Busca paginada de recursos.
@@ -12,10 +17,10 @@ O API CRUD é um projeto desenvolvido para avaliar algumas competências no mód
 
 A aplicação consiste em buscar recursos paginados e por id, inserção, atualização e exclusão de recursos.
 
-## Layout 
+## Layout :mag_right:
 
 
-## Modelo conceitual
+## Modelo conceitual :page_with_curl:
 ![Modelo Conceitual](https://github.com/4lmeida/challenge-API-CRUD/blob/main/src/assets/diagramaClient.png)
 
 # Tecnologias utilizadas :books:
@@ -44,3 +49,9 @@ cd challenge-API-CRUD
 
 | [<img src="https://avatars.githubusercontent.com/u/93017964?v=4" width=115><br><sub>Luís Almeida</sub>](https://github.com/4lmeida) |
 | :---: |
+
+## Licença 
+
+The [MIT License]()(MIT)
+
+Copyright :copyright: 2023 - API CRUD
