@@ -23,7 +23,7 @@ A aplicação consiste em buscar recursos paginados e por id, inserção, atuali
 ## Modelo conceitual :page_with_curl:
 ![Modelo Conceitual](https://github.com/4lmeida/challenge-API-CRUD/blob/main/src/assets/diagramaClient.png)
 
-# Tecnologias utilizadas :books:
+# Linguagens, dependencias e libs utilizadas :books:
 - [JAVA](https://www.java.com/pt-BR/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [JPA](https://spring.io/projects/spring-data-jpa) / [Hibernate](https://hibernate.org/)
@@ -31,7 +31,7 @@ A aplicação consiste em buscar recursos paginados e por id, inserção, atuali
 - [H2](https://www.h2database.com/html/main.html)
 - [Postman](https://www.postman.com/)
 
-# Como executar o projeto :arrow_forward:
+# Como rodar a aplicação :arrow_forward:
 
 Pré-requisitos: Java 17
 
