@@ -27,7 +27,7 @@ O API CRUD é um projeto desenvolvido para avaliar algumas competências no mód
 
 A aplicação consiste em buscar recursos paginados e por id, inserção, atualização e exclusão de recursos.
 
-# Layout
+# Layout :mag_right:
 
 - Endpoints:
 ![](https://github.com/4lmeida/challenge-API-CRUD/blob/main/src/assets/api-crud.gif)
