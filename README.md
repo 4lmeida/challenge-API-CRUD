@@ -8,15 +8,15 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Sobre o projeto](##Sobre-o-projeto-open_file_folder)
+:small_blue_diamond: [Sobre o projeto](#Sobre-o-projeto-open_file_folder)
 
-:small_blue_diamond: [Modelo Conceitual](##Modelo-conceitual-page_with_curl)
+:small_blue_diamond: [Modelo Conceitual](#Modelo-conceitual-page_with_curl)
 
-:small_blue_diamond: [Layout](##Layout-mag_right)
+:small_blue_diamond: [Layout](#Layout-mag_right)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-## Sobre o projeto :open_file_folder:
+# Sobre o projeto :open_file_folder:
 
 O API CRUD é um projeto desenvolvido para avaliar algumas competências no módulo de CRUD. Algumas delas são: organização do projeto em camadas, tratamento de exeções, seeding da base de dados e criação de web services REST para acessar um recurso de clientes contendo as cinco operações básicas:
 - Busca paginada de recursos.
@@ -27,12 +27,12 @@ O API CRUD é um projeto desenvolvido para avaliar algumas competências no mód
 
 A aplicação consiste em buscar recursos paginados e por id, inserção, atualização e exclusão de recursos.
 
-## Layout
+# Layout
 
 - Endpoints:
 ![](https://github.com/4lmeida/challenge-API-CRUD/blob/main/src/assets/api-crud.gif)
 
-## Modelo conceitual :page_with_curl:
+# Modelo conceitual :page_with_curl:
 ![Modelo Conceitual](https://github.com/4lmeida/challenge-API-CRUD/blob/main/src/assets/diagramaClient.png)
 
 ## Linguagens, dependencias e libs utilizadas :books:
@@ -43,7 +43,7 @@ A aplicação consiste em buscar recursos paginados e por id, inserção, atuali
 - [H2](https://www.h2database.com/html/main.html)
 - [Postman](https://www.postman.com/)
 
-## Como rodar a aplicação :arrow_forward:
+# Como rodar a aplicação :arrow_forward:
 
 Pré-requisitos: Java 17
 
