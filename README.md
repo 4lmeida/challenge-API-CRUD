@@ -19,6 +19,8 @@ A aplicação consiste em buscar recursos paginados e por id, inserção, atuali
 
 ## Layout :mag_right:
 
+- Endpoints:
+![](https://github.com/4lmeida/challenge-API-CRUD/blob/main/src/assets/api-crud.gif)
 
 ## Modelo conceitual :page_with_curl:
 ![Modelo Conceitual](https://github.com/4lmeida/challenge-API-CRUD/blob/main/src/assets/diagramaClient.png)
