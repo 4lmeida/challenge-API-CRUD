@@ -54,6 +54,6 @@ cd challenge-API-CRUD
 
 ## Licença 
 
-The [MIT License]()(MIT)
+The [MIT License](https://github.com/4lmeida/challenge-API-CRUD/blob/main/LICENSE)(MIT)
 
 Copyright :copyright: 2023 - API CRUD
