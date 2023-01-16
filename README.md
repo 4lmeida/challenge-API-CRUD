@@ -59,7 +59,7 @@ Pré-requisitos: Java 17
 # clonar repositório
 git clone https://github.com/4lmeida/challenge-API-CRUD
 
-# entrar na pasta do projeto back end
+# entrar na pasta do projeto challenge-API-CRUD
 cd challenge-API-CRUD
 
 # executar o projeto
