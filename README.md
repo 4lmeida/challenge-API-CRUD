@@ -20,7 +20,7 @@
 
 # Sobre o projeto :open_file_folder:
 
-O API CRUD é um projeto desenvolvido para avaliar algumas competências referente ao módulo de CRUD que a escola a [DevSuperior](https://devsuperior.com.br/cursos) passa como desafio.
+O API CRUD é um projeto desenvolvido para avaliar algumas competências referente ao módulo de CRUD que a escola [DevSuperior](https://devsuperior.com.br/cursos) passa como desafio para avançar no curso.
 
 <p>
 Algumas delas são: organização do projeto em camadas, tratamento de exeções, seeding da base de dados e criação de web services REST para acessar um recurso de clientes contendo as cinco operações básicas que consiste em buscar recursos paginados e por id, inserção, atualização e exclusão de recursos.
