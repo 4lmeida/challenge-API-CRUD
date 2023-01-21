@@ -5,8 +5,7 @@ import com.challengeApiCrud.dto.ClientDTO;
 import com.challengeApiCrud.services.ClientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
-import org.springframework.data.domain.PageRequest;
-import org.springframework.data.domain.Sort;
+import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
@@ -21,16 +20,8 @@ public class ClientResource {
     ClientService clientService;
 
     @GetMapping
-    public  ResponseEntity<Page<ClientDTO>> findPagined(
-            @RequestParam(name = "page", defaultValue = "0") Integer page,
-            @RequestParam(name = "linesPerPage", defaultValue = "12") Integer linesPerPage,
-            @RequestParam(name = "direction", defaultValue = "ASC") String direction,
-            @RequestParam(name = "orderBy", defaultValue = "") String  orderBy
-            ) {
-
-        PageRequest pageRequest = PageRequest.of(page, linesPerPage, Sort.Direction.valueOf(direction), orderBy);
-
-        Page<ClientDTO> list = clientService.findPagined(pageRequest);
+    public  ResponseEntity<Page<ClientDTO>> findPaged(Pageable pageable) {
+        Page<ClientDTO> list = clientService.findPaged(pageable);
         return ResponseEntity.ok().body(list);
     }
 
