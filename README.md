@@ -49,11 +49,9 @@ Algumas das competências são: organização do projeto em camadas, tratamento 
 
 ## Linguagens, dependencias e libs utilizadas :books:
 - [JAVA](https://www.java.com/pt-BR/)
-- [Spring Boot](https://spring.io/projects/spring-boot)
 - [JPA](https://spring.io/projects/spring-data-jpa) / [Hibernate](https://hibernate.org/)
 - [Maven](https://maven.apache.org/)
 - [H2](https://www.h2database.com/html/main.html)
-- [Postman](https://www.postman.com/)
 
 # Como rodar a aplicação :arrow_forward:
 
