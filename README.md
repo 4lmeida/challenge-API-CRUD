@@ -1,4 +1,4 @@
-<h1 align="center"> API CRUD </h1>
+<h1 align="center"> API CRUD :vertical_traffic_light: </h1>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=spring&message=framework&color=blue&style=for-the-badge&logo=SPRING"/>
   <img src="https://img.shields.io/static/v1?label=Postman&message=API management&color=blue&style=for-the-badge&logo=postman"/>
@@ -14,7 +14,7 @@
 
 :small_blue_diamond: [Modelo Conceitual](#Modelo-conceitual-page_with_curl)
 
-:small_blue_diamond: [Layout](#Layoutou-Deploy--da-Aplicação-mag_right)
+:small_blue_diamond: [Layout](#Layout-mag_right)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
@@ -38,7 +38,7 @@ Algumas das competências são: organização do projeto em camadas, tratamento 
 
 :heavy_check_mark: Deletar recurso. 
 
-# Layout ou Deploy da Aplicação :mag_right:
+# Layout :mag_right:
 
 - Endpoints:
 
